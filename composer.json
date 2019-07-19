@@ -11,7 +11,7 @@
             "email": "king1963212100@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+   
     "autoload": {
         "psr-4": {
             "boystark\\": "src/"
