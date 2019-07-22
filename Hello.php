@@ -5,6 +5,6 @@ class Hello
 {
     public static function greet()
     {
-        echo "Hello,boystark!", PHP_EOL;
+        echo "Hello,boystark! v1.1", PHP_EOL;
     }
 }
